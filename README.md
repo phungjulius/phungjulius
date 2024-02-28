@@ -11,9 +11,9 @@ I'm Julius, a Network IoT Smart System student from Finland with a keen interest
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...*/
-
- --->
 [![My Skills](https://skillicons.dev/icons?i=aws,powershell,linux,java,github,c,cpp&perline=3)](https://skillicons.dev)
+ --->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,powershell,linux,java,github,c,cpp,vim" />
